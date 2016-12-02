@@ -1,0 +1,12 @@
+12:15:19.889 [main] WARN  Scanner:60 - test
+12:32:58.270 [main] WARN  LocationFinder:60 - test
+12:33:40.849 [main] WARN  LocationFinder:60 - testJSONArray[0] not found.
+12:43:47.893 [main] WARN  LocationFinder:60 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+12:45:32.234 [main] WARN  LocationFinder:59 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+13:21:42.106 [main] WARN  LocationFinder:59 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+13:27:21.737 [main] WARN  LocationFinder:59 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+13:28:46.960 [main] WARN  LocationFinder:59 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+13:41:25.773 [main] WARN  LocationFinder:59 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+13:47:58.502 [main] WARN  LocationFinder:59 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+13:48:07.048 [main] WARN  LocationFinder:59 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
+14:31:44.810 [main] WARN  LocationFinder:61 - Can not parse JSON in LocationFinder.Location getLocationByCity(String city) with city: asfdasdasf JSONArray[0] not found.
